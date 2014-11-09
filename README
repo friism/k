@@ -1,0 +1,3 @@
+Some dockerfiles to build and run ASP.NET vNext on Mono. Derives from [official Mono Docker languages stack](https://registry.hub.docker.com/_/mono/)
+
+Loosely based on Dockerfiles on [this MS Opentech blog post](http://msopentech.com/blog/2014/11/07/creating-asp-net-vnext-docker-container-using-mono-2/)
